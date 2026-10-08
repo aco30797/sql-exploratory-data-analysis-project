@@ -64,7 +64,10 @@ sql-exploratory-data-analysis-project/
 │       └── fact_sales.csv
 │
 ├── scripts/
-│   └── SQL analysis and reporting scripts
+│   ├── README.md
+│   ├── sql_exploratory_data_analysis.sql
+│   ├── report_customers.sql
+│   └── report_products.sql
 │
 ├── README.md
 └── LICENSE
