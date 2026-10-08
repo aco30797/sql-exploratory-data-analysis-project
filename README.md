@@ -85,6 +85,6 @@ The main objectives of this project are to:
 
 ## Learning Context
 
-This project was developed as a hands-on learning project while following *The Complete SQL Bootcamp: Go from Zero to Hero* by Data With Baraa.
+This project was developed as a hands-on learning project while following *The Complete SQL Bootcamp: Go from Zero to Hero*.
 
 The SQL queries and analyses were practiced, adapted, and documented as part of my SQL learning journey.
